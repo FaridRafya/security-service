@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/corurse-service/corurse-service.iml" filepath="$PROJECT_DIR$/corurse-service/corurse-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sec-servcei/sec-servcei.iml" filepath="$PROJECT_DIR$/sec-servcei/sec-servcei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trumt-me.iml" filepath="$PROJECT_DIR$/trumt-me.iml" />
+    </modules>
+  </component>
+</project>
